@@ -1,0 +1,10 @@
+name: ParkourLite
+version: 1.0
+main: com.nayruforest.parkourlite.ParkourLite
+commands:
+  setstart:
+    description: Starting pos
+  setend:
+    description: Ending pos
+  start:
+    description: Starts the parkour
