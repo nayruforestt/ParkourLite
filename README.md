@@ -2,4 +2,4 @@
  Barebone, most simple parkour plugin
 
 -----
-I don't even play on updating it  
+I don't even plan on updating it  
